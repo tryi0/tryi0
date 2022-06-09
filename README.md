@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tri Pramudya
-- 👀 I’m interested in Data Scientist and Machine Learning
+- 👀 I’m interested in Data Related Role
 - 🌱 I’m currently learning SQL, Python
-- 💞️ I’m looking to collaborate on another Data Scientist
 - 📫 How to reach me https://www.linkedin.com/in/tri-pramudya
 
 <!---
